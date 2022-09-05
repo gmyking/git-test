@@ -2,7 +2,7 @@ package com.atguigu.git;
 
 /**
  * @version 1.0
- * @auther 郭明远~
+ * @auther Mr.G~
  */
 public class GitTest {
     public static void main(String[] args) {
